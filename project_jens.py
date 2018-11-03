@@ -8,7 +8,6 @@ Project Multimedia
 import cv2
 import numpy as np
 
-print("test")
 #----------------------FUNCTIONS-----------------------------------------------#
 def get_hog(image):
     # winSize = (64,64)
